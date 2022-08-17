@@ -1,0 +1,112 @@
+export default {
+  "token": {
+    "access_token": "fake-token-12345789-abcdefgh",
+    "user": {
+      "firstname": "Admin",
+      "lastname": "",
+      "email": "admin@test.com",
+      "password": "password"
+    }
+  },
+  "customers": [
+    {
+      "membership": false,
+      "mobile": "555-555-555",
+      "rewards": 21,
+      "id": 2,
+      "firstname": "Larsen",
+      "lastname": "Shaw",
+      "email": "abc@test.com",
+    },
+    {
+      "membership": false,
+      "mobile": "555-555-555",
+      "rewards": 89,
+      "id": 4,
+      "firstname": "Rosseta",
+      "lastname": "Wilson",
+      "email": "test@test.com",
+    },
+    {
+      "membership": false,
+      "mobile": "555-555-555",
+      "rewards": 38,
+      "id": 5,
+      "firstname": "William",
+      "lastname": "Carney",
+      "email": "test@test.com",
+    },
+    {
+      "membership": false,
+      "mobile": "555-555-555",
+      "rewards": 23,
+      "id": 6,
+      "firstname": "Sarah",
+      "lastname": "Dunne",
+      "email": "test@test.com",
+    },
+    {
+      "membership": true,
+      "mobile": "555-555-555",
+      "rewards": 23,
+      "id": 8,
+      "firstname": "Merriana",
+      "lastname": "Sean",
+      "email": "test@test.com",
+    },
+    {
+      "membership": true,
+      "mobile": "555-555-555",
+      "rewards": 26,
+      "id": 9,
+      "firstname": "Jubino",
+      "lastname": "Gerret",
+      "email": "test@test.com",
+    },
+    {
+      "membership": false,
+      "mobile": "555-555-555",
+      "rewards": 22,
+      "id": 10,
+      "firstname": "Geneva",
+      "lastname": "Wilson",
+      "email": "test@test.com",
+    },
+    {
+      "membership": true,
+      "mobile": "555-555-555",
+      "rewards": 38,
+      "id": 11,
+      "firstname": "Mark",
+      "lastname": "Carney",
+      "email": "test@test.com",
+    },
+    {
+      "membership": false,
+      "mobile": "555-555-555",
+      "rewards": 27,
+      "id": 12,
+      "firstname": "Yann",
+      "lastname": "Larrel",
+      "email": "test@test.com",
+    },
+    {
+      "membership": true,
+      "firstname": "John",
+      "lastname": "Doe",
+      "mobile": "555-555-555",
+      "rewards": 88,
+      "email": "john.doe@test.com",
+      "id": 13
+    },
+    {
+      "firstname": "sdfsdf",
+      "lastname": "sdfsdf",
+      "mobile": "555-555-555",
+      "rewards": 22,
+      "email": "sdfsdfsdfs",
+      "membership": false,
+      "id": 14
+    }
+  ],
+}
